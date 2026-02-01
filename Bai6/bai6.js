@@ -25,4 +25,6 @@ B3: Check lại sự thay đổi
 */
 //không push với env
 
+//Đang dừng ở 1:57:00 bài 6
+
 
