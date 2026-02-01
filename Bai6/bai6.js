@@ -18,5 +18,5 @@ B2: Copy các folder code từ b1 - 4 vào thư mục vuawfa clon về
 B3: Push lên thì bấm Publish Branch
 B4: Reload lại git hub
 */ 
-
+//thuc hanh pull ve
 
