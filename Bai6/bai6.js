@@ -23,5 +23,6 @@ B1: Edit trên git hub
 B2: terminal: chạy lệnh "git pull"
 B3: Check lại sự thay đổi 
 */
+//không push với env
 
 
